@@ -1,0 +1,63 @@
+2020-10-14 11:29:51,439 INFO  [Log] open application 
+2020-10-14 11:29:58,459 INFO  [Log] title matched hrms 
+2020-10-14 11:29:58,474 INFO  [Log] login succesfully 
+2020-10-14 11:30:02,809 INFO  [Log] verified title 
+2020-10-14 11:30:02,825 INFO  [Log] welcome admin is present 
+2020-10-14 11:30:02,893 INFO  [Log] logout succesfully 
+2020-10-14 11:30:03,003 INFO  [Log] closng browser 
+2020-10-14 11:30:03,688 INFO  [Log] open application 
+2020-10-14 11:30:06,215 INFO  [Log] login succesfully 
+2020-10-14 11:30:10,521 INFO  [Log] click on pim menu 
+2020-10-14 11:30:10,789 INFO  [Log] add emp link 
+2020-10-14 11:30:11,088 INFO  [Log] frame in 
+2020-10-14 11:30:11,807 INFO  [Log] add emp details 
+2020-10-14 11:30:13,477 INFO  [Log] frame out 
+2020-10-14 11:30:13,485 INFO  [Log] logout succesfully 
+2020-10-14 11:30:13,550 INFO  [Log] closng browser 
+2020-10-14 11:30:14,219 INFO  [Log] open application 
+2020-10-14 11:30:17,418 INFO  [Log] login succesfully 
+2020-10-14 11:30:21,460 INFO  [Log] deleting emp 
+2020-10-14 11:30:24,603 INFO  [Log] logout succesfully 
+2020-10-14 11:30:24,672 INFO  [Log] closng browser 
+2020-10-14 23:26:30,913 INFO  [Log] open application 
+2020-10-14 23:26:38,349 INFO  [Log] title matched hrms 
+2020-10-14 23:26:38,365 INFO  [Log] login succesfully 
+2020-10-14 23:26:42,963 INFO  [Log] verified title 
+2020-10-14 23:26:42,963 INFO  [Log] welcome admin is present 
+2020-10-14 23:26:43,045 INFO  [Log] logout succesfully 
+2020-10-14 23:26:43,229 INFO  [Log] closng browser 
+2020-10-14 23:26:43,859 INFO  [Log] open application 
+2020-10-14 23:26:46,500 INFO  [Log] login succesfully 
+2020-10-14 23:26:51,079 INFO  [Log] click on pim menu 
+2020-10-14 23:26:51,319 INFO  [Log] add emp link 
+2020-10-14 23:26:51,455 INFO  [Log] frame in 
+2020-10-14 23:26:52,715 INFO  [Log] add emp details 
+2020-10-14 23:26:55,187 INFO  [Log] frame out 
+2020-10-14 23:26:55,195 INFO  [Log] logout succesfully 
+2020-10-14 23:26:55,263 INFO  [Log] closng browser 
+2020-10-14 23:26:56,069 INFO  [Log] open application 
+2020-10-14 23:26:58,562 INFO  [Log] login succesfully 
+2020-10-14 23:27:02,510 INFO  [Log] deleting emp 
+2020-10-14 23:27:05,618 INFO  [Log] logout succesfully 
+2020-10-14 23:27:05,646 INFO  [Log] closng browser 
+2020-10-14 23:32:17,807 INFO  [Log] open application 
+2020-10-14 23:32:21,024 INFO  [Log] login succesfully 
+2020-10-14 23:32:25,370 INFO  [Log] click on pim menu 
+2020-10-14 23:32:25,677 INFO  [Log] add emp link 
+2020-10-14 23:32:25,837 INFO  [Log] frame in 
+2020-10-14 23:32:26,397 INFO  [Log] add emp details 
+2020-10-14 23:32:27,921 INFO  [Log] frame out 
+2020-10-14 23:32:27,929 INFO  [Log] logout succesfully 
+2020-10-14 23:32:27,994 INFO  [Log] closng browser 
+2020-10-14 23:32:28,683 INFO  [Log] open application 
+2020-10-14 23:32:34,815 INFO  [Log] title matched hrms 
+2020-10-14 23:32:34,830 INFO  [Log] login succesfully 
+2020-10-14 23:32:39,135 INFO  [Log] verified title 
+2020-10-14 23:32:39,151 INFO  [Log] welcome admin is present 
+2020-10-14 23:32:39,200 INFO  [Log] logout succesfully 
+2020-10-14 23:32:39,330 INFO  [Log] closng browser 
+2020-10-14 23:32:40,593 INFO  [Log] open application 
+2020-10-14 23:32:43,858 INFO  [Log] login succesfully 
+2020-10-14 23:32:48,018 INFO  [Log] deleting emp 
+2020-10-14 23:32:51,105 INFO  [Log] logout succesfully 
+2020-10-14 23:32:51,141 INFO  [Log] closng browser 

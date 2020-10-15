@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Testng Sessions" >
+
+   <test name="testng features">
+
+   <classes>
+        <class name="com.hrms.TestScripts.TC_hrms_001" />
+        <class name="com.hrms.TestScripts.TC_hrms_002" />
+        <class name="com.hrms.TestScripts.TC_hrms_003" />
+   </classes>
+
+   </test>
+</suite>

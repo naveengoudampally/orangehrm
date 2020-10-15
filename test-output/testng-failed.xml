@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Testng Sessions]">
+  <test thread-count="5" name="testng features(failed)">
+    <classes>
+      <class name="com.hrms.TestScripts.TC_hrms_002">
+        <methods>
+          <include name="tcm2"/>
+        </methods>
+      </class> <!-- com.hrms.TestScripts.TC_hrms_002 -->
+      <class name="com.hrms.TestScripts.TC_hrms_001">
+        <methods>
+          <include name="tcm1"/>
+        </methods>
+      </class> <!-- com.hrms.TestScripts.TC_hrms_001 -->
+      <class name="com.hrms.TestScripts.TC_hrms_003">
+        <methods>
+          <include name="tcm3"/>
+        </methods>
+      </class> <!-- com.hrms.TestScripts.TC_hrms_003 -->
+    </classes>
+  </test> <!-- testng features(failed) -->
+</suite> <!-- Failed suite [Testng Sessions] -->
